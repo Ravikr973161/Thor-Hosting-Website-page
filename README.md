@@ -20,4 +20,4 @@ This is a Hosting Website landing page, I have built it from scratch using HTML 
 
 ![Web Site Image](./Assets/Hosting%20Landing%20Page.png)
 
-#### This project took around 4 hours to complete.
+#### This project took around 9 hours to complete.
