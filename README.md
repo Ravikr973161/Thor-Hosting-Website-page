@@ -1,4 +1,4 @@
-Hi This is Ravi K R from Karnataka, welcome to my git profile.
+Hi This is Ravi K R, full stack web developer.
 
 # Project Name : 11. Thor-Hosting-Website-page ![](https://img.shields.io/badge/Project-11-green)
 
