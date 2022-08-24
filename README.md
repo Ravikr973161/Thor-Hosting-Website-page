@@ -18,6 +18,6 @@ This is a Hosting Website landing page, I have built it from scratch using HTML 
 
 [Live Link !](https://inquisitive-maamoul-c49a88.netlify.app)
 
-![Web Site Image](./assets/Hosting%20Landing%20Page.png)
+![Web Site Image](./Assets/Hosting%20Landing%20Page.png)
 
 #### This project took around 4 hours to complete.
